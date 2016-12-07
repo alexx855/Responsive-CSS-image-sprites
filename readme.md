@@ -64,6 +64,6 @@ Do you want it on CSS?:
 ### Example
 You can found two examples what ive used on my projects in this repo, but if you want to play with it, [here is a codepen example]
 
-
+#### Notes
 Any comment, suggestion or star are apreciate :)
 
