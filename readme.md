@@ -1,3 +1,6 @@
+### What is it?
+gif
+
 ### How it works?
 
 | Attribute     | How to calculate             |
@@ -33,7 +36,7 @@ So, our SCSS should look like this:
 ```
 
 ### Example
-You can found two examples what ive used on my projects in this repo, but if you want to play with it, [here is a codepen example]
+You can found two examples what i've used on my projects in this repository.
 
 #### Notes
 Any comment, suggestion or star are apreciate :)
